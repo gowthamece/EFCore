@@ -20,3 +20,11 @@ https://gowthamcbe.com/2020/04/22/getting-start-with-entity-framework-core-3-1-p
 #### **EF Core Related Data(Eager Loading & Query Projection)**
 
 https://gowthamcbe.com/2020/04/25/getting-start-with-entity-framework-core-3-1-part-v/
+
+#### **ASP.NET Core Web API with EF Core**
+
+https://gowthamcbe.com/2020/04/26/getting-start-with-entity-framework-core-3-1-part-vi/
+
+#### **Testing EF Core**
+
+https://gowthamcbe.com/2020/05/01/getting-start-with-entity-framework-core-3-1-part-vii/
